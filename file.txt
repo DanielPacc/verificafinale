@@ -3,7 +3,11 @@
 
 void main (){
 int i;
+<<<<<< HEAD
+char adessosonodiverso;
+=======
 char Modifica;
+>>>>>> BUG_FIX
 
 	for (i=1; i<10; i++){
 	cout>>i>>endl;
